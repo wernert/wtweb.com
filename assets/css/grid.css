@@ -4,7 +4,7 @@ body {
     grid-template-rows: auto 1fr auto;
     grid-template-columns: 10px auto 10px;
     background: #fff;
-    font-family: system-ui, sans-serif;
+    /* font-family: system-ui, sans-serif; */
     margin: 0px;
 }
 
@@ -31,7 +31,7 @@ footer {
 h5 {
     color: silver;
     padding-top: 15px;
-    padding-bottom: 15px;
+    /* padding-bottom: 15px; */
     letter-spacing: 0.3em;
 }
 .text-center{
